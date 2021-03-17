@@ -39,14 +39,14 @@ Exercício aplicado por um professor
 - Quantidade de homens
 - O gênero da pessoa mais alta
 
-Payroll - CALCULA:
+Payroll - mostra:
 
 - Total dos salários
 - total de peças
 - média de peças produzidas
 - ID do operador com maior salário
 
-Pesquisa 1 - CALCULA:
+Pesquisa1 - mostra:
 
 - A quantidade de pessoas com idade  superior a 50 anos e peso inferior a 60 quilos
 
