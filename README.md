@@ -45,3 +45,13 @@ Payroll - CALCULA:
 - total de peças
 - média de peças produzidas
 - ID do operador com maior salário
+
+Pesquisa 1 - CALCULA:
+
+- A quantidade de pessoas com idade  superior a 50 anos e peso inferior a 60 quilos
+
+- A média  das idades das pessoas  com altura inferior a 1,50
+
+- A porcentagem de pessoas  com olhos azuis entre todas as pessoas analisadas
+
+- A quantidade de pessoas  ruivas e que não possuem olhos azuis
