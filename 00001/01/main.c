@@ -48,9 +48,7 @@ int main()
             male++;
             if(age > 45)
                 count_men_45++;
-
-        }
-        else{
+        }else{
             female++;
             if((age < 35) && (strcasecmp(experience,"y") ==0))
                 count_women_35++;

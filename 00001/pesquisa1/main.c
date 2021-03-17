@@ -9,9 +9,7 @@ float idade, peso, altura, idade_m, alt_int=0, idade_s;
 float quant_p=0, p_olho_a, olho_a=0, ruiv=0;
 char olho_c[2], cab_c[2];
 
-
     printf("\n Entre com a quantidade de pessoas: ");scanf("%d",&c);
-
 
     i=0;
     while(i<c){

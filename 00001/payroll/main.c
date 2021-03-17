@@ -77,5 +77,5 @@ int main()
 
     printf("\n\n\n THE END ");
 
-
+    return 0;
 }
