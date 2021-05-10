@@ -15,7 +15,7 @@ char olho_c[2], cab_c[2];
     while(i<c){
 
         printf("\n Idade: "); scanf("%f", &idade);fflush(stdin);
-        printf(" Peso (Kg): "); scanf("%f", &peso); fflush(stdin);
+        printf(" Peso (Kg): "); scanf("%f", &peso);fflush(stdin);
         printf(" Altura: "); scanf("%f", &altura);fflush(stdin);
         printf("\n A - Azul\n P - Preto\n V - Verde\n C - Castanho\n Cor dos olhos: "); fgets(olho_c, 2, stdin);fflush(stdin);
         printf("\n P - Preto\n C - Castanho\n L - Louro\n R - Ruivo\n Cor dos cabelos: "); fgets(cab_c, 2, stdin);

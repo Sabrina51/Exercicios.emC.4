@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614984527 source:d:\sabrina e renata\documents\workspace\ups github\exercícios em c - 5\00001\05\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
